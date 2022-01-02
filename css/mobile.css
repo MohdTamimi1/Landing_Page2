@@ -1,0 +1,49 @@
+/* NavBAR */
+
+.navbar {
+    flex-direction: column;
+    height: 120px;
+    padding: 20px;
+}
+
+.navbar ul a{
+    margin: 0px 3px;
+    padding: 10px 10px;
+}
+
+
+/* About */
+
+.flex-items {
+    flex-direction: column;
+}
+
+
+.row {
+    flex-direction: column;
+}
+
+.column .column-info {
+    align-items: center;
+}
+
+.cases-img {
+    padding: 0;
+}
+
+.cases-img img {
+    max-width: 100%;
+    padding: 5px 0;
+}
+
+.team {
+    flex-direction: column;
+}
+
+.team img {
+    width: 80%;
+}
+
+.form { 
+    flex-direction: column;
+}
